@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.113" height="24.314" viewBox="0 0 22.113 24.314">
+    <defs>
+        <style>
+            .cls-1{fill:#878585}.cls-2{fill:#ff8600}.cls-3{fill:none;stroke:#fff;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="Grupo_337" data-name="Grupo 337" transform="translate(-1456.887 -462)">
+        <g id="filter-filled-tool-symbol" transform="translate(1452.477 467.684)">
+            <path id="Trazado_541" d="M11.421 8.8a1.15 1.15 0 0 1 .3.778v8.472a.576.576 0 0 0 .98.41l2.363-2.708c.316-.38.491-.567.491-.943V9.584a1.159 1.159 0 0 1 .3-.778l6.782-7.359A.863.863 0 0 0 22.008 0H5.274a.862.862 0 0 0-.634 1.447z" class="cls-1" data-name="Trazado 541"/>
+        </g>
+        <circle id="Elipse_29" cx="6" cy="6" r="6" class="cls-2" data-name="Elipse 29" transform="translate(1467 462)"/>
+        <path id="Trazado_592" d="M-19248.883-12765.75v5.693" class="cls-3" data-name="Trazado 592" transform="rotate(90 -15503.296 4213.511)"/>
+        <path id="Trazado_593" d="M0 0v5.7" class="cls-3" data-name="Trazado 593" transform="translate(1473.119 465.076)"/>
+    </g>
+</svg>
